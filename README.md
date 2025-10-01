@@ -1,4 +1,4 @@
-# 📊 Power BI Final Project – Amazon Products Dashboard  
+# 📊 Power BI – Amazon Products Performance Dashboard  
 
 This project is a **Power BI dashboard** built for analyzing Amazon product dataset.  
 It includes data cleaning, transformation, and visualization of key business metrics.  
